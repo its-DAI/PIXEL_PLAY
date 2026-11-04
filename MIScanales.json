@@ -1,0 +1,72 @@
+[
+	{
+	"id": 1,
+	"nombre": "TV Perú",
+	"categoria": "Nacional",
+	"imagen": "https://i.imgur.com/6io0IrX.png",
+	"url": "http://190.93.224.42/TV-PERU/index.m3u8"
+	},
+	{
+	"id": 2,
+	"nombre": "AmericaTV",
+	"categoria": "Nacional",
+	"imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
+	"url": "http://190.93.224.42/AMERICA-TV/index.m3u8"
+	},
+	{
+	"id": 3,
+	"nombre": "ATV",
+	"categoria": "Nacional",
+	"imagen": "https://i.imgur.com/eUzYZfg.png",
+	"url": "http://190.93.224.42/ATV/index.m3u8"
+	},
+	{
+	"id": 4,
+	"nombre": "ATV Sur",
+	"categoria": "Nacional",
+	"imagen": "https://i.imgur.com/LnyVa5H.png",
+	"url": "http://190.93.224.42/ATV-SUR/index.m3u8"
+	},
+	{
+	"id": 5,
+	"nombre": "Latina",
+	"categoria": "Nacional",
+	"imagen": "https://i.imgur.com/MOsWriY.png",
+	"url": "http://190.93.224.42/LATINA/index.m3u8"
+	},
+	{
+	"id": 6,
+	"nombre": "QollasuyoTV",
+	"categoria": "Nacional",
+	"imagen": "https://i.imgur.com/6bi7fGB.jpeg",
+	"url": "https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8"
+	},
+	{
+	"id": 7,
+	"nombre": "DISNEY CHANNEL",
+	"categoria": "Entretenimiento",
+	"imagen": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+	"url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8"
+	},
+	{
+	"id": 8,
+	"nombre": "PanetaTV",
+	"categoria": "Nacional",
+	"imagen": "https://i.imgur.com/EoLhvBN.png",
+	"url": "https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8"
+	},
+	{
+	"id": 9,
+	"nombre": "CanalMasTV",
+	"categoria": "Nacional",
+	"imagen": "https://i.imgur.com/rdHygJ1.png",
+	"url": "https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8"
+	},
+	{
+	"id": 10,
+	"nombre": "AndesTelevision",
+	"categoria": "Nacional",
+	"imagen": "https://i.imgur.com/CsW4Op8.png",
+	"url": "https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8"
+	}
+]
